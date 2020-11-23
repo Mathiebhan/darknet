@@ -15,17 +15,17 @@
   <depend>libxt-dev</depend>
   <depend>libxext</depend>
 
-  <!-- <depend>roscpp</depend>
+  <!--depend>roscpp</depend>
   <depend>rospy</depend>
   <depend>std_msgs</depend>
   <depend>image_transport</depend>
   <depend>cv_bridge</depend>
   <depend>sensor_msgs</depend>
   <depend>message_generation</depend>
-  <!-- <depend>darknet_ros_msgs</depend>
-  <depend>actionlib</depend> --> -->
+  <!- <depend>darknet_ros_msgs</depend>
+  <depend>actionlib</depend>
 
-  <!-- Test dependencies -->
+  <!- Test dependencies -->
   <test_depend>rostest</test_depend>
   <test_depend>wget</test_depend>
 </package>
